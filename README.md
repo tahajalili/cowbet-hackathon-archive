@@ -13,8 +13,8 @@ CowBet is an on-chain betting platform built on Terra. Bets are locked in and im
 
 ## Team
 
-- Matthew Tran
-- Taha Jalili (web design)
+- Matthew T
+- Taha J
 - Tate S
 
 ## Contents
